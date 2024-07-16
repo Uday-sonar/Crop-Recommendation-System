@@ -3,7 +3,6 @@ Developed a web application to predict the variety of crop using parameters like
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
 - [Features](#features)
 - [Requirements](#requirements)
 - [Usage](#usage)
