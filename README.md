@@ -57,7 +57,7 @@ crop-recommendation-system/
 │   ├── service.html
 │
 ├── app.py
-├── train_model.py
+├── crop_model.py
 ├── config.json
 ├── requirements.txt
 ├── README.md
