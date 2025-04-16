@@ -1,6 +1,6 @@
 from flask import Flask ,render_template,request,url_for
 import pickle
-import test as uday
+import crop_model as uday
 
 
 app = Flask(__name__)
